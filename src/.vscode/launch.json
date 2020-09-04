@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Web.Api/bin/Debug/netcoreapp2.1/Web.Api.dll",
+            "program": "${workspaceFolder}/Gdpr.Api/bin/Debug/netcoreapp2.1/Gdpr.Api.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Web.Api",
+            "cwd": "${workspaceFolder}/Gdpr.Api",
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart",
             "launchBrowser": {

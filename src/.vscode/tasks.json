@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Web.Api/Web.Api.csproj"
+                "${workspaceFolder}/Gdpr.Api/Gdpr.Api.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
